@@ -1,2 +1,2 @@
 # ACCORDION PROJECT  
--enables mutliselect option
+-enabled mutliselect option
